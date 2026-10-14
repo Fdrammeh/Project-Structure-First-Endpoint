@@ -1,0 +1,2 @@
+APP_NAME = "Recipe API"
+APP_VERSION = "1.0.0"
